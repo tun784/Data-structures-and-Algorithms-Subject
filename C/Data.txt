@@ -1,0 +1,10 @@
+010100315820#Mang may tinh#Khoa hoc may tinh#3#Chinh quy
+010110065183#Triet hoc Mac-Lenin#Chinh tri dai cuong#3#Chinh quy
+010110098417#Dai so tuyen tinh#Toan cao cap#2#Khong chinh quy
+010110082210#Anh Van 1#Ngon ngu hoc#3#Chinh quy
+010100301511#Logic hoc#Khoa hoc hinh thuc#2#Chinh quy#0011Xc#CoChinhQuy
+0101101922159#Ky nang ung dung CNTT#Khoa hoc ung dung#3#Chinh quy
+010110194305#CTDL & GT#Khoa hoc may tinh#2#Chinh quy
+010110196116#Thuc hanh CTDL & GT#Khoa hoc may tinh#1#Chinh quy
+010100532209#Thuc hanh MMT#Khoa hoc may tinh#1#Chinh quy
+010100632269#Tu tuong HCM#Chinh tri dai cuong#2#Chinh quy
