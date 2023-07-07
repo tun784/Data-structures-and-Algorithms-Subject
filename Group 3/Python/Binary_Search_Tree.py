@@ -286,3 +286,8 @@ while process:
 print(SP.yellow("--> Thoát chương trình thành công.", 'bold'))
 os.system("pause")
 os.system("cls")
+
+# Data.txt
+# 1000
+# 500 1500
+# 300 700 1300 1700
