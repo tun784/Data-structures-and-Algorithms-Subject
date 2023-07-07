@@ -872,6 +872,7 @@ int tinh_tong_so_mon_hien_co(Node *root)
     return leftC + rightC + 1;
 }
 
+// Data.txt
 // 010100315820#Mang may tinh#Khoa hoc may tinh#3#Chinh quy
 // 010110065183#Triet hoc Mac-Lenin#Chinh tri dai cuong#3#Chinh quy
 // 010110098417#Dai so tuyen tinh#Toan cao cap#2#Khong chinh quy
