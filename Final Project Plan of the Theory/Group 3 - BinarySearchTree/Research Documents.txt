@@ -1,0 +1,6 @@
+c) https://www.edureka.co/blog/data-structures-in-python/
+2. A. https://courses.engr.illinois.edu/cs225/sp2023/resources/bst/
+2. Ưu & nhược: https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-binary-search-tree/
+3. Input: https://www.softwaretestinghelp.com/python/input-output-python-files/
+https://www.pythontutorial.net/python-basics/python-read-text-file/
+4. b) https://pypi.org/project/simple-colors/

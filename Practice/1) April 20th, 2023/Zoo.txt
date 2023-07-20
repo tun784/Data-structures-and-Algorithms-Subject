@@ -1,0 +1,29 @@
+4
+
+A111
+Su Tu
+Thu Co Vu
+Duc
+Thit
+8
+
+A002
+Voi
+Thu Co Vu
+Cai
+Co
+13
+
+B013
+Ca Heo
+Duoi nuoc
+Cai
+Thit
+5
+
+C104
+Ran
+Bo sat
+Duc
+Thit
+4

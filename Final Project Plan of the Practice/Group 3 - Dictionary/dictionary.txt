@@ -1,0 +1,51 @@
+50
+Detective# Tham tu
+Opportunity# Co hoi
+Computer# May tinh
+Beautiful# Xinh dep
+Handsome# Dep trai
+Knowledge# Kien thuc
+Necessary# Can thiet
+University# Dai hoc
+Fat# Thua can
+Feature# Net noi bat
+Height# Chieu cao
+Muscular# Co bap
+Zebra#	Con ngua van
+Weight# Can nang
+Justice# Cong ly
+Journey# Hanh trinh
+Kindness# Tinh yeu thuong
+Brave# Dung cam
+Cheerful# Vui tuoi
+Love# Tinh yeu
+Language# Ngon ngu
+Energetic# Tran day nang luong
+Friendly# Than thien
+Reliable# Dang tin cay
+Grumpy# Kho chiu
+Honest# That tha
+Modest# Khiem ton
+Teacher# Giao vien
+Technical# Cong nghe
+Selfish# Ich ky
+Quiet# Im lang
+Yesterday# Hom qua
+Embarrassed# Xau ho
+Happy# Hanh phuc
+Information# Thong tin
+Innovation# Doi moi
+Artificial Intelligence# Tri tue nhan tao
+Data science# Khoa hoc du lieu
+Cybersecurity# An ninh mang
+Xenophobia# Su ki thi (Nguoi ngoai quoc)
+Automation# Tu dong hoa
+Software# Phan mem
+Hardware# Phan cung
+Internet of Things# Internet van vat
+Cloud computing# Dien toan dam may
+Virtual reality# Thuc te ao
+Family# Gia dinh
+People# Moi nguoi
+Engineer# Ki su
+Discipline# Ki luat
