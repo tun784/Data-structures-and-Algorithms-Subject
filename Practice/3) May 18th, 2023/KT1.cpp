@@ -206,21 +206,3 @@ int main() {
 	system("pause");
 	return 0;
 }
-
-// 4
-// CB01
-// PC01
-// Le Minh
-// 8
-// CB09
-// PC01
-// Hoang Ha
-// 7
-// CB08
-// PC04
-// Hoang Ha
-// 5
-// CB06
-// PC07
-// Nhat Minh
-// 3
