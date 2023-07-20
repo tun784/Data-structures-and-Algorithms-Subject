@@ -1,0 +1,25 @@
+6
+BK001
+Banh keo
+500
+15000
+TL003
+Thuoc la
+5
+22000
+DG002
+Duong tinh luyen
+90
+25000
+CF005
+Ca phe goi
+7
+17000
+MG007
+Mi an lien Omachi
+150
+4500
+MG008
+Mi chua cay ba mien
+10
+2500
