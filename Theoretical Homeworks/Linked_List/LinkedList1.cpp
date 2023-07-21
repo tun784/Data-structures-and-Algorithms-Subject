@@ -1,4 +1,6 @@
 ﻿#include <iostream>
+#include <math.h>
+#include <string>
 #include <Windows.h>
 void textcolor(int x) {
     HANDLE y = GetStdHandle(STD_OUTPUT_HANDLE);
